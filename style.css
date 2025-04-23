@@ -1,16 +1,17 @@
 body{
-    background-color: #333d47;
-    color: rgb(0, 0, 0);
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #a22c27;
+    color: #9f8241;
+    font-family:Georgia;
     text-align: center;
+    font-size: 2rem;
 }
 #container{
-    background-color: rgba(88, 102, 145, 0.6);
+    background-color: #4f2621;
 }
 
 
 #relogio{
-    font-size: 4rem;
+    font-size: 7rem;
     font-weight: bold;
-    margin-top: 14px;
+    margin-top: 10px;
 }
